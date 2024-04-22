@@ -1,4 +1,4 @@
-// *** Brave weapons ***
+// *** Brave weapons **********************************************************
 // THE MOUNTAINTOP
 dimwishlist:item=568611922&perks=3300816228,469285294
 dimwishlist:item=568611922&perks=3300816228,4104185692
@@ -12,8 +12,12 @@ dimwishlist:item=2499720827&perks=3038247973,3425386926
 dimwishlist:item=2499720827&perks=3824105627,3425386926
 dimwishlist:item=2499720827&perks=3824105627,3891536761
 
-// BLAST FURNACE ***********************************************************
-
+// BLAST FURNACE
+dimwishlist:item=2372514508&perks=3891536761,3824105627
+dimwishlist:item=2372514508&perks=3891536761,3425386926
+dimwishlist:item=2372514508&perks=460017080,3824105627
+dimwishlist:item=2372514508&perks=460017080,4104185692
+dimwishlist:item=2372514508&perks=460017080,247725512
 
 // HUNG JURY SR4
 dimwishlist:item=205225492&perks=3891536761,3038247973
@@ -34,12 +38,32 @@ dimwishlist:item=2763843899&perks=3017780555,4293542123
 dimwishlist:item=2372514509&perks=2387244414,460017080
 dimwishlist:item=2372514509&perks=2387244414,3047969693
 
-//  THE RECLUSE ******************************************************
+// THE RECLUSE
+dimwishlist:item=1050806815&perks=1820235745,3081867624
+dimwishlist:item=1050806815&perks=1820235745,2048641572
+dimwishlist:item=1050806815&perks=1820235745,2109543898
+dimwishlist:item=1050806815&perks=776531651,3081867624
+dimwishlist:item=1050806815&perks=776531651,2048641572
+dimwishlist:item=1050806815&perks=776531651,2109543898
+
+// EDGE TRANSIT
+dimwishlist:item=568611923&perks=3751912585,3078487919
+dimwishlist:item=568611923&perks=968510818,3078487919
+dimwishlist:item=568611923&perks=3300816228,3078487919
+
+// HAMMERHEAD 
+dimwishlist:item=211732170&perks=968510818,365154968
+dimwishlist:item=211732170&perks=968510818,3708227201
+dimwishlist:item=211732170&perks=1354429876,3708227201
+dimwishlist:item=211732170&perks=1354429876,365154968
+
+// FALLING GUILLOTINE
+dimwishlist:item=1815105249&perks=2077819806
+dimwishlist:item=1815105249&perks=3078487919
 
 
 
-
-// ********** PRIMARY
+// ********** PRIMARY ********************************************************************
 
 // THE SUPREMACY
 dimwishlist:item=2884596447&perks=3418782618,1354429876
@@ -55,7 +79,7 @@ dimwishlist:item=1125217994&perks=2822142346,3523296417,11612903
 dimwishlist:item=435821041&perks=247725512,460017080
 dimwishlist:item=435821041&perks=3619207468,460017080
 
-// ********** SECONDARY
+// ********** SECONDARY *******************************************************************
 
 //PROSECUTOR
 dimwishlist:item=3483591058&perks=2848615171,2173046394
@@ -78,28 +102,12 @@ dimwishlist:item=3262192268&perks=3523296417,4293542123
 dimwishlist:item=1757202961&perks=1966281507,4293542123
 dimwishlist:item=1757202961&perks=1556840489,4293542123
 
-// ********** HEAVY
-
-// EDGE TRANSIT
-dimwishlist:item=2228325504&perks=3751912585,3078487919
-dimwishlist:item=2228325504&perks=968510818,3078487919
+// ********** HEAVY ***********************************************************************
 
 // CATAPHRACT GL3
 dimwishlist:item=2738601016&perks=951095735,3078487919
 dimwishlist:item=2738601016&perks=968510818,3078487919
 dimwishlist:item=2738601016&perks=3300816228,3078487919
-
-// FALLING GUILLOTINE
-dimwishlist:item=1815105249&perks=2077819806
-dimwishlist:item=1815105249&perks=3078487919
-
-// THE RECLUSE
-dimwishlist:item=1050806815&perks=1820235745,3081867624
-dimwishlist:item=1050806815&perks=1820235745,2048641572
-dimwishlist:item=1050806815&perks=1820235745,2109543898
-dimwishlist:item=1050806815&perks=776531651,3081867624
-dimwishlist:item=1050806815&perks=776531651,2048641572
-dimwishlist:item=1050806815&perks=776531651,2109543898
 
 // COLD COMFORT
 dimwishlist:item=839786290&perks=968510818,3078487919
